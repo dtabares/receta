@@ -1,0 +1,2 @@
+# receta
+Ruby + Angular example
